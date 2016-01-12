@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#to test git
 read -p "Your name? " name
 
 if [[ $name = $USER ]]; then
